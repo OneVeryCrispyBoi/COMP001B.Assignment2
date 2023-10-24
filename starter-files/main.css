@@ -32,7 +32,7 @@ h3 {
 }
 
 p {
-	margin-left: 15px;
+	margin-left: 25px;
 }
 
 .album-art {
@@ -63,7 +63,7 @@ margin-bottom: 15px;
 }
 
 .track-list {
-	margin-left: 235px;
+	margin-left: 250px;
 }
 
 #about-photo {
@@ -71,8 +71,8 @@ margin-bottom: 15px;
 	border: 1px solid crimson;
 	padding: 15px;
 	margin: 3px;
-	margin-left: 15px;
-	margin-bottom: 15px;
+	margin-left: 25px;
+	margin-bottom: 25px;
 }
 
 #copyright {
