@@ -23,18 +23,25 @@ h1 {
 
 h2 {
 	font-size: 1.75em;
+	margin-left: 15px;
 }
 
 h3 {
 	font-size: 1.5em;
+	margin-left: 15px;
 }
 
 p {
-
+	margin-left: 15px;
 }
 
 .album-art {
-
+float: left;
+padding: 15px;
+margin: 3px;
+border: 1px solid crimson;
+margin-left: 15px;
+margin-bottom: 15px;
 }
 
 .clear {
@@ -42,29 +49,45 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	float: left;
+	padding: 15px;
+	margin: 3px;
+	border: 1px solid crimson;
+	margin-left: 15px;
+	margin-bottom: 15px;
 }
 
 .record-label {
-
+	margin-left: 10px;
+	color: crimson;
 }
 
 .track-list {
-
+	margin-left: 235px;
 }
 
 #about-photo {
-
+	float: left;
+	border: 1px solid crimson;
+	padding: 15px;
+	margin: 3px;
+	margin-left: 15px;
+	margin-bottom: 15px;
 }
 
 #copyright {
-
+font-size: 75%;
+color: crimson;
 }
 
 #section-about, #section-discography, #section-equipment {
-
+border: 1px solid crimson;
+margin-bottom: 15px;
 }
 
 #text-intro {
-	
+color: crimson;
+background-color: rgb(68, 68, 68);
+padding: 15px;
+border: 1px solid crimson;
 }
